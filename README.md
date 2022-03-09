@@ -39,6 +39,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-%231572B6?style=flat-square&logo=sass)
+![БЭМ](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
