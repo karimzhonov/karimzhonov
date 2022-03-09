@@ -29,9 +29,17 @@
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 
 **Telegram bot**
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django ORM](https://img.shields.io/badge/Django-red?style=flat-square&logo=Django)
-![AIOGRAM](https://img.shields.io/badge/AIOGRAM-red?style=flat-square&logo=AIOGRAM)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Aiogram](https://img.shields.io/badge/Aiogram-red?style=flat-square&logo=Aiogram)
+
+**Deep Learning**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Numpy](https://img.shields.io/badge/-Numpy-0aad48?style=flat-square&logo=Numpy)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-red?style=flat-square&logo=Tensorflow)
+![Keras](https://img.shields.io/badge/Keras-green?style=flat-square&logo=Keras)
 
 **Databases**
 
