@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-
+![AIOGRAM](https://img.shields.io/badge/AIOGRAM-red?style=flat-square&logo=AIOGRAM)
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
@@ -39,7 +39,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-%231572B6?style=flat-square&logo=sass)
-![БЭМ](https://img.shields.io/badge/-bem-%231572B6?style=flat-square&logo=bem)
 
 **Tools**
 
